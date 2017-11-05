@@ -1,0 +1,57 @@
+/* Customize here and run gulp to compile */
+
+/*
+Theme Name: NextGen Entrepreneurs
+Theme URI: thenextgen.org
+Template: Divi
+Author: Weekend for Good
+Author URI: http://www.grgivecamp.org
+Description: Smart. Flexible. Beautiful. Divi is the most powerful theme in our collection.
+Tags: responsive-layout,one-column,two-columns,three-columns,four-columns,left-sidebar,right-sidebar,custom-background,custom-colors,featured-images,full-width-template,post-formats,rtl-language-support,theme-options,threaded-comments,translation-ready
+Version: 3.0.86.1509827214
+Updated: 2017-11-04 20:26:54
+
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Typography
+# Elements
+# Forms
+# Navigation
+	## Links
+	## Menus
+# Accessibility
+# Alignments
+# Clearings
+# Widgets
+# Content
+	## Posts and pages
+	## Comments
+# Infinite scroll
+# Media
+	## Captions
+	## Galleries
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+# Typography
+--------------------------------------------------------------*/
+/*
+ * everything in roboto, with sane system UI defaults.
+ * cref https://medium.design/system-shock-6b1dc6d6596f
+ * */
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,300i,700,700i');
+* {
+	font-family: "Roboto", "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+}
+
+.video-overlay {
+    color: #ffffff;
+}
+
+/*--------------------------------------------------------------
+# Elements
+--------------------------------------------------------------*/
+
